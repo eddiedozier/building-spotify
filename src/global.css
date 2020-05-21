@@ -1,0 +1,92 @@
+/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+
+/* purgecss end ignore */
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  width: 16px;
+}
+
+::-webkit-scrollbar-thumb {
+  border: 4px solid transparent;
+  border-radius: 16px;
+  background-clip: padding-box;
+  min-height: 30px;
+  background-color: hsla(0, 0%, 100%, 0.3);
+}
+
+.sidebar-text {
+  @apply text-textGray;
+  letter-spacing: 0.03em;
+}
+
+.playlist-link-active {
+  @apply text-white;
+}
+
+.playlist-link .icon,
+.create-playlist-btn {
+  opacity: 0.6;
+}
+
+.playlist-link-active .icon,
+.playlist-link:hover .icon,
+.create-playlist-btn:hover {
+  opacity: 1;
+}
+
+.active-nav {
+  @apply text-white bg-activeGray;
+}
+
+.side-nav-link {
+  padding: 8px 8px 7px 8px;
+  border-radius: 4px;
+}
+
+.side-nav-btn {
+  padding: 8px 8px 2px 8px;
+}
+
+.active-nav svg.side-nav-icon,
+.side-nav-link:hover .side-nav-icon {
+  fill: #fff;
+}
+
+.side-nav-icon {
+  @apply mr-4 ml-2 sidebar-text transition ease-in-out duration-200;
+  fill: #b3b3b3;
+  margin-bottom: 1px;
+}
+
+.playlist-link {
+  @apply transition ease-in-out duration-200;
+}
+
+.playlist-link:hover {
+  @apply text-white;
+}
+
+.genre-header-text {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28px;
+  height: 30px;
+  letter-spacing: -0.025em;
+}
+
+.genre-see-all {
+  @apply text-textGray;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.genre-header-text:hover,
+.genre-see-all:hover {
+  border-bottom: 1px solid;
+}

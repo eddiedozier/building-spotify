@@ -29,6 +29,7 @@ npm run dev
 + Icons
     + [FlatIcon](https://www.flaticon.com/)
     + [Noun Project](https://thenounproject.com/)
+    + [Spotify](https://open.spotify.com/)
 + Fonts
     + [onlinewebfonts](https://www.onlinewebfonts.com/)
 

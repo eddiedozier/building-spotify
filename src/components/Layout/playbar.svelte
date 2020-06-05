@@ -126,6 +126,7 @@
   .play-button {
     display: flex;
     justify-content: center;
+    align-items: center;
     height: 32px;
     width: 32px;
   }

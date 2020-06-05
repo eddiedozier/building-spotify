@@ -58,7 +58,7 @@ export default {
     production && terser(),
     includePaths({
       include: {},
-      paths: ['src', 'src/components', 'src/containers', 'src/helper', 'src/services', 'src/utils'],
+      paths: ['src', 'src/components', 'src/containers', 'src/helper', 'src/data', 'src/utils'],
       external: [],
       extensions: ['.js', '.json', '.svelte'],
     }),

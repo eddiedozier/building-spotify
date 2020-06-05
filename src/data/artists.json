@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "artist": "Roddy Ricch",
+      "type": "Artist",
+      "image": "https://i.scdn.co/image/38ce38b6127b0aced2667ffca0cde86d3c5055f3",
+      "albums": [
+        {
+          "name": "Please Excuse Me For Being Antisocial",
+          "cover": "https://i.scdn.co/image/ab67616d00001e02600adbc750285ea1a8da249f"
+        },
+        {
+          "name": "Feed tha Streets",
+          "cover": "https://i.scdn.co/image/ab67616d00001e02b834dd9d23629caa40dc62f2"
+        }
+      ]
+    },
+    {
+      "artist": "Aftertheparty",
+      "type": "Artist",
+      "image": "https://i.scdn.co/image/d4b4b372131b08f83e961daf41e2992192511864",
+      "albums": [
+        {
+          "name": "Resonance",
+          "cover": "https://i.scdn.co/image/ab67616d00001e021acf83b7accd7082d4f9f002"
+        },
+        {
+          "name": "What You Really Mean to Me",
+          "cover": "https://i.scdn.co/image/ab67616d00001e02149d917d907174ae4559356b"
+        }
+      ]
+    },
+    {
+      "artist": "Chris Brown",
+      "type": "Artist",
+      "image": "https://i.scdn.co/image/e153d6448b17ce97b2a79da70d64b89230c67053",
+      "albums": [
+        {
+          "name": "Indigo",
+          "cover": "https://i.scdn.co/image/ab67616d00001e029e588b0c2afe8178b2b76231"
+        },
+        {
+          "name": "F.A.M.E. (Expanded Edition)",
+          "cover": "https://i.scdn.co/image/ab67616d00001e020a1d20ec09cab4bb17a36aab"
+        }
+      ]
+    },
+    {
+      "artist": "WizKid",
+      "type": "Artist",
+      "image": "https://i.scdn.co/image/a952792ab5695fe6d95891a9ac5f4eb993d58983",
+      "albums": [
+        {
+          "name": "Sounds From The Other Side",
+          "cover": "https://i.scdn.co/image/ab67616d00001e0213c40d09756d267c10dab09c"
+        },
+        {
+          "name": "Ayo",
+          "cover": "https://i.scdn.co/image/ab67616d00001e026ab931c7f2d0be44324e7b75"
+        }
+      ]
+    },
+    {
+      "artist": "JAY-Z",
+      "type": "Artist",
+      "image": "https://i.scdn.co/image/027c5605d895158497ff377d92d69fe89dba1730",
+      "albums": [
+        {
+          "name": "4:44",
+          "cover": "https://i.scdn.co/image/ab67616d00001e027513c4956ea5552caf02eab6"
+        },
+        {
+          "name": "Magna Carta... Holy Grail",
+          "cover": "https://i.scdn.co/image/ab67616d00001e024af3be606885e7f5559f4031"
+        }
+      ]
+    }
+  ]
+}
